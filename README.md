@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vaibhav Aggarwal
-- 👀 I’m interested in becoming a brilliant developer and make my parents proud 😃.
-- 🌱 I’m currently learning MERN Stack Development.
-- 💞️ I’m looking to collaborate on any new and exciting ideas (might even tell you some of mine).
-- 📫 How to reach me 🤔 just send an email at (vaibhav101agg@gmail.com).
+- 👀 Interested in becoming a brilliant developer and make my parents proud 😃.
+- 🌱 A MERN Stack Developer.
+- 💞️ Looking to collaborate on any new and exciting ideas (might even tell you some of mine).
+- 📫 How to reach me?? 🤔 just send an email at (aggarwalvaibhav1703@gmail.com).
 
 <!---
 Vaibhav-2005/Vaibhav-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
