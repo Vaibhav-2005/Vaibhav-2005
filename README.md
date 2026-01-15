@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on any new and exciting ideas (might even tell you some of mine).
 - 🚜 Innovated and Developed PindScript.
 - 📫 How to reach me?? 🤔 just send an email at (vaibhav101agg@gmail.com).
-- 😎 Wanna know about me check out https://vaibhav-2005.github.io/Portfolio/
+- 😎 Wanna know about me check out https://vaibhav-aggarwal.netlify.app/
 
 <!---
 Vaibhav-2005/Vaibhav-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
